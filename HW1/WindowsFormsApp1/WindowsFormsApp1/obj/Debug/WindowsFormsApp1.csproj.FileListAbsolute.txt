@@ -1,0 +1,17 @@
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question2.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question1.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question3.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question4.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question5.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question6.resources
+D:\Master\Master_class\影像處理\HW1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Question7.resources
