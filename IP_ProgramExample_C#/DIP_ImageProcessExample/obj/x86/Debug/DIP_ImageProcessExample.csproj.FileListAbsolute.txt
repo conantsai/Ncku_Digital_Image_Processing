@@ -1,0 +1,13 @@
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+F:\程式講解&範例\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+F:\程式講解&範例\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+D:\WorkSpace\修課\影像處理\ref\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+D:\WorkSpace\修課\影像處理\ref\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
